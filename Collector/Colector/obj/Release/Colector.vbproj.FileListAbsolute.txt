@@ -1,0 +1,13 @@
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\bin\Release\Colector.exe
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\bin\Release\Colector.pdb
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\bin\Release\Colector.xml
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\bin\Release\System.Data.SqlClient.dll
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\obj\Release\ResolveAssemblyReference.cache
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\obj\Release\Colector.Consulta.resources
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\obj\Release\Colector.Lectura.resources
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\obj\Release\Colector.Resources.resources
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\obj\Release\Colector.Pass.resources
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\obj\Release\Colector.vbproj.GenerateResource.Cache
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\obj\Release\Colector.exe
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\obj\Release\Colector.xml
+C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\obj\Release\Colector.pdb

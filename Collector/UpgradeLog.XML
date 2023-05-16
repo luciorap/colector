@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Colector">
+</Property><Property Name="Archivo de la solución" Value="C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector.suo">
+</Property><Property Name="Date" Value="miércoles, 20 de noviembre de 2013">
+</Property><Property Name="Time" Value="10:07">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Colector.sln" Description="La copia C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Colector.suo" Description="La copia C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Colector.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\Colector.vbproj">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Colector.vbproj.user" Description="La copia de seguridad C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\Colector.vbproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\ColectorDataSet.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\ColectorDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\ColectorDataSet.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\ColectorDataSet.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Consulta.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\Consulta.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Consulta.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\Consulta.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Lectura.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\Lectura.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Lectura.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\Lectura.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\LugalmDataSet.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\LugalmDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\LugalmDataSet.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\LugalmDataSet.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\OperadorDataSet.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\OperadorDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Pass.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\Pass.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Pass.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\Pass.vb">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\ClassDiagram1.cd" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\ColectorDataSet.xsc" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\ColectorDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\ColectorDataSet.xsd" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\ColectorDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\ColectorDataSet.xss" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\ColectorDataSet.xss">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\LugalmDataSet.xsc" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\LugalmDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\LugalmDataSet.xsd" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\LugalmDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\LugalmDataSet.xss" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\LugalmDataSet.xss">
+</Event><Event ErrorLevel="2" Project="Colector" Source="Colector\My Project\DataSources\lectura.datasource" Description="Error al hacer copia de seguridad del archivo como C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\My Project\DataSources\lectura.datasource">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\OperadorDataSet.xsc" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\OperadorDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\OperadorDataSet.xsd" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\OperadorDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\OperadorDataSet.xss" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\OperadorDataSet.xss">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Colector.sdf" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\Colector.sdf">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\icono.ico" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\icono.ico">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Consulta.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\Consulta.resx">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Lectura.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\Lectura.resx">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Pass.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Backup\Colector\Pass.resx">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Colector.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Colector" Source="Colector\Colector.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Colector.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Colector.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Consulta.resx" Description="Archivo convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Colector" Source="Colector\Consulta.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Lectura.resx" Description="Archivo convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Colector" Source="Colector\Lectura.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\My Project\Resources.resx" Description="Archivo convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Colector" Source="Colector\My Project\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Pass.resx" Description="Archivo convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Colector" Source="Colector\Pass.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Colector.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\Colector.vbproj" Description="Se actualizaron las referencias a una versión anterior del proveedor de SQL Server Compact.">
+</Event><Event ErrorLevel="3" Project="Colector" Source="Colector\Colector.sdf" Description="Error de conversión">
+</Event><Event ErrorLevel="2" Project="Colector" Source="Colector\Colector.sdf" Description="Error al actualizar la base de datos: La contraseña especificada para la base de datos de origen no es correcta. [ Data Source = C:\sis.net\Visual Studio 2005\Projects\Colector\AT\Colector\Colector\Colector.sdf ]">
+</Event><Event ErrorLevel="3" Project="Colector" Source="Colector\ColectorDataSet.xsd" Description="Convertido">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\ColectorDataSet.xsd" Description="Se actualizaron las referencias a una versión anterior del proveedor de SQL Server Compact.">
+</Event><Event ErrorLevel="3" Project="Colector" Source="Colector\LugalmDataSet.xsd" Description="Convertido">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\LugalmDataSet.xsd" Description="Se actualizaron las referencias a una versión anterior del proveedor de SQL Server Compact.">
+</Event><Event ErrorLevel="3" Project="Colector" Source="Colector\OperadorDataSet.xsd" Description="Convertido">
+</Event><Event ErrorLevel="0" Project="Colector" Source="Colector\OperadorDataSet.xsd" Description="Se actualizaron las referencias a una versión anterior del proveedor de SQL Server Compact.">
+</Event></UpgradeLog>
